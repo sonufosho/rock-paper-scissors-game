@@ -15,7 +15,6 @@ body {
 }
 
 .moves {
-  font-size: 60px;
   height: 100px;
 }
 
@@ -31,11 +30,9 @@ body {
 }
 
 .result {
-  font-size: 60px;
   font-family: Tahoma;
 }
 
 .score {
-  font-size: 60px;
   background-color: lightblue;
 }
